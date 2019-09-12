@@ -1,0 +1,29 @@
+.homePageDiv {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  padding: 100px 0;
+}
+
+.h1_hp {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  word-spacing: 4px;
+}
+
+.h2_hp {
+  padding-bottom: 15px;
+}
+
+.p_hp {
+  text-align: center;
+  word-spacing: 3px;
+}
+
+.image_hp {
+  width: 500px;
+  padding: 25px 0;
+}

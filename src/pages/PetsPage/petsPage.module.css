@@ -1,0 +1,44 @@
+.mainDivPets {
+  width: 800px;
+  padding: 30px 0;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.petsUL {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  width: 800px;
+}
+
+.petsLI {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px dotted rgba(0, 0, 0, 0.5);
+  height: 300px;
+  width: 250px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.petsListImg {
+  width: 200px;
+  height: auto;
+  margin: 15px 0;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.petsListImg:hover {
+  transform: scale(1.05, 1.05);
+  transition: transform 0.3s;
+}
+
+.petName {
+  padding-bottom: 15px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}

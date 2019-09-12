@@ -1,0 +1,54 @@
+.mainDiv_pp {
+  width: 800px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+.petButton {
+  align-self: flex-start;
+  background-color: white;
+  border: 1px dotted black;
+  padding: 7px;
+  text-transform: uppercase;
+  width: 130px;
+  height: 30px;
+}
+.petButton:hover {
+  border: 1px dotted black;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.h2_petp {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.p_petp {
+  padding-top: 40px;
+  text-align: center;
+}
+
+.pet_img {
+  width: 300px;
+  margin-right: 100px;
+}
+
+.petInfoDiv {
+  padding: 50px 0;
+}
+
+.infoBlock {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+.shortPetInfo {
+  line-height: 40px;
+  justify-self: center;
+  align-self: center;
+}

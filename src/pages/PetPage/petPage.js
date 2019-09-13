@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import PropTypes from 'proptypes';
 import pets from '../../components/pets.json';
 import design from './petPage.module.css';
 
@@ -34,6 +35,10 @@ const Pet = ({ match }) => {
       </div>
     </div>
   );
+};
+
+Pet.propTypes = {
+  match: PropTypes.object.isRequired,
 };
 
 export default Pet;

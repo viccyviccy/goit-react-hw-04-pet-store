@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import PropTypes from 'proptypes';
 import pets from '../../components/pets.json';
 import design from './petsPage.module.css';
 
@@ -18,6 +19,10 @@ const allPets = ({ history, location, match }) => {
       </ul>
     </div>
   );
+};
+
+allPets.propTypes = {
+  match: PropTypes.object.isRequired,
 };
 
 export default allPets;

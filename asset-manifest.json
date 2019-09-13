@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goit-react-hw-04-pet-store/static/css/main.376cff7f.chunk.css",
-    "main.js": "/goit-react-hw-04-pet-store/static/js/main.2127b8ac.chunk.js",
-    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.2127b8ac.chunk.js.map",
+    "main.js": "/goit-react-hw-04-pet-store/static/js/main.90e1ed25.chunk.js",
+    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.90e1ed25.chunk.js.map",
     "runtime~main.js": "/goit-react-hw-04-pet-store/static/js/runtime~main.16247d91.js",
     "runtime~main.js.map": "/goit-react-hw-04-pet-store/static/js/runtime~main.16247d91.js.map",
-    "static/js/2.7a1e98d4.chunk.js": "/goit-react-hw-04-pet-store/static/js/2.7a1e98d4.chunk.js",
-    "static/js/2.7a1e98d4.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/2.7a1e98d4.chunk.js.map",
+    "static/js/2.1e41bb64.chunk.js": "/goit-react-hw-04-pet-store/static/js/2.1e41bb64.chunk.js",
+    "static/js/2.1e41bb64.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/2.1e41bb64.chunk.js.map",
     "index.html": "/goit-react-hw-04-pet-store/index.html",
-    "precache-manifest.267f8d816f5f43b2bf0aa21757e4b17f.js": "/goit-react-hw-04-pet-store/precache-manifest.267f8d816f5f43b2bf0aa21757e4b17f.js",
+    "precache-manifest.c8091879a44b6c61da56ef5ae92ea0c0.js": "/goit-react-hw-04-pet-store/precache-manifest.c8091879a44b6c61da56ef5ae92ea0c0.js",
     "service-worker.js": "/goit-react-hw-04-pet-store/service-worker.js",
     "static/css/main.376cff7f.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/main.376cff7f.chunk.css.map"
   }
